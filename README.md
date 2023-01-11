@@ -1,8 +1,9 @@
 # Walmart-Sales-case-study-using-power-BI.
 
 ## NOTE
-1. This project have been made on Power BI for the data walmart data sales ( from kaggle )
-2. Link for the project on Power BI services : ** https://app.powerbi.com/links/ex8xxGG2Eg?ctid=34b5518a-4699-4365-8139-0d2d2a7158e1&pbi_source=linkShare&bookmarkGuid=c3f2db58-69dd-4ed7-8c72-d06ccb518d29 **
+
+1. This project have been made on Power BI using the **walmart data sales** ( from kaggle )
+2. Link for the project on Power BI services :https://app.powerbi.com/links/ex8xxGG2Eg?ctid=34b5518a-4699-4365-8139-0d2d2a7158e1&pbi_source=linkShare&bookmarkGuid=c3f2db58-69dd-4ed7-8c72-d06ccb518d29
 
 ## Purpose of the project :
 1. Power Bi helps in developing interactive dashboards , hence you can extract visual information by just cliking on any segment of visual.
@@ -31,3 +32,7 @@
 ## KPI (Key Performance Index).
 
 ![KPI](https://user-images.githubusercontent.com/86300718/211862058-9ac14cdb-4d86-414c-acfc-1ce5c1655cc9.png)
+
+
+#Insights Found :
+
