@@ -1,4 +1,4 @@
-# Walmart_Sales_Case_Study_Using_Power_BI.
+# Walmart Sales Case Study Using Power BI 
 
 ## NOTE
 
